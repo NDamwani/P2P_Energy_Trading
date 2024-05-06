@@ -1,4 +1,4 @@
-Multi-agent Deep Reinforcement Learning in Smart Grids Project Overview Author: Siddharth Singh Supervisor: Dr. Alivelu Manga Parimi
+Multi-agent Deep Reinforcement Learning in Smart Grids Project Overview Author: Nikhil Damwani Supervisor: Dr. Alivelu Manga Parimi
 
 This project delves into the application of Multi-Agent Deep Reinforcement Learning (MADRL) within smart grid systems, focusing on peer-to-peer energy trading in microgrids. The primary goal is to establish a responsive and economically advantageous energy trading ecosystem among prosumers (consumers and producers).
 
